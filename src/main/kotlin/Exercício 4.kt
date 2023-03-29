@@ -5,11 +5,13 @@ fun main(){
 
     println(result)
 
-    var verdadeiro: Boolean = 5 > 3 && 2 <      // Questão b)
+    var verdadeiro: Boolean = 5 > 3 && 2 < 4     // Questão b)
 
     var falso: Boolean=  !(10 > 5 || 3 < 1)     // Questâo c)
 
 
     println(verdadeiro)
+
+
     println(falso)
 }
