@@ -12,6 +12,5 @@ fun main(){
 
     println(verdadeiro)
 
-
     println(falso)
 }
